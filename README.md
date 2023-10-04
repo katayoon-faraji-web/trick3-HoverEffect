@@ -1,6 +1,6 @@
 # trick3
 
-- [Demo Project](https://katayoon-faraji-web.github.io/trick2/)
+- [Demo Project](https://katayoon-faraji-web.github.io/trick3/)
 
 - Developed by katayoon faraji
 
