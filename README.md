@@ -1,6 +1,6 @@
-# trick3
+# trick3-HoverEffect
 
-- [Demo Project](https://katayoon-faraji-web.github.io/trick3/)
+- [Demo Project](https://katayoon-faraji-web.github.io/trick3-HoverEffect/)
 
 - Developed by katayoon faraji
 
